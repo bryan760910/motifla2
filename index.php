@@ -60,6 +60,13 @@
 						<li data-target="#carouselExampleIndicators" data-slide-to="23"></li>
 						<li data-target="#carouselExampleIndicators" data-slide-to="24"></li>
 						<li data-target="#carouselExampleIndicators" data-slide-to="25"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="26"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="27"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="28"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="29"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="30"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="31"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="32"></li>
 					</ol>
 					<div class="carousel-inner">
 						<div class="active carousel-item">
@@ -140,6 +147,27 @@
 						<div class="carousel-item">
 							<div id="index26"></div>
 						</div>
+						<div class="carousel-item">
+							<div id="index27"></div>
+						</div>
+						<div class="carousel-item">
+							<div id="index28"></div>
+						</div>
+						<div class="carousel-item">
+							<div id="index29"></div>
+						</div>
+						<div class="carousel-item">
+							<div id="index30"></div>
+						</div>
+						<div class="carousel-item">
+							<div id="index31"></div>
+						</div>
+						<div class="carousel-item">
+							<div id="index32"></div>
+						</div>
+						<div class="carousel-item">
+							<div id="index33"></div>
+						</div>
 					</div>
 					<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
 						<span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -185,12 +213,6 @@
 						<li data-target="#carouselExampleIndicators2" data-slide-to="30"></li>
 						<li data-target="#carouselExampleIndicators2" data-slide-to="31"></li>
 						<li data-target="#carouselExampleIndicators2" data-slide-to="32"></li>
-						<li data-target="#carouselExampleIndicators2" data-slide-to="33"></li>
-						<li data-target="#carouselExampleIndicators2" data-slide-to="34"></li>
-						<li data-target="#carouselExampleIndicators2" data-slide-to="35"></li>
-						<li data-target="#carouselExampleIndicators2" data-slide-to="36"></li>
-						<li data-target="#carouselExampleIndicators2" data-slide-to="37"></li>
-						<li data-target="#carouselExampleIndicators2" data-slide-to="38"></li>
 					</ol>
 					<div class="carousel-inner">
 						<div class="active carousel-item">
@@ -291,24 +313,6 @@
 						</div>
 						<div class="carousel-item">
 							<img class="positionimg" src="theme/images/sliderImg/mobole/33.jpg" alt="First slide">
-						</div>
-						<div class="carousel-item">
-							<img class="positionimg" src="theme/images/sliderImg/mobole/34.jpg" alt="First slide">
-						</div>
-						<div class="carousel-item">
-							<img src="theme/images/sliderImg/mobole/35.jpg" alt="First slide">
-						</div>
-						<div class="carousel-item">
-							<img class="positionimg" src="theme/images/sliderImg/mobole/36.jpg" alt="First slide">
-						</div>
-						<div class="carousel-item">
-							<img src="theme/images/sliderImg/mobole/37.jpg" alt="First slide">
-						</div>
-						<div class="carousel-item">
-							<img src="theme/images/sliderImg/mobole/38.jpg" alt="First slide">
-						</div>
-						<div class="carousel-item">
-							<img class="positionimg" src="theme/images/sliderImg/mobole/39.jpg" alt="First slide">
 						</div>
 						
 

@@ -76,56 +76,155 @@
                             <li><a href="#competition">competition</a></li>
                             </ul>
                         </div>
-						<p>
-                        2004 London Housing Award <br />
-                        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp英國新住宅設計大獎 Melody Lane, London N5</p><br /> 
-						
-						<p>
-                        2005 Street Design Award<br />
-                        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp英國街道空間設計大獎 Old baily open space design</p><br /> 
-						
-						<p>
-                        2008 Leicester Square Redesign International Competition Winner<br />
-                        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp英國萊斯特廣場國際競圖第一名 Leicester Square Redesign</p><br /> 
-						
-						<p>
-                        2009 Triton Square Civic Trust Award Winner<br />
-                        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp英國公民信託協會特別獎<br />
-                        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspRegents Place - Triton Square</p><br /> 
-						
-						<p>2010 Aldgate Place Park Highly commended, LI<br />
-                        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp英國皇家景觀建築師協會高度推薦獎</p><br /> 
 
-                        <p>2015 臺南I-Life高層集合住宅建築景觀園冶獎</p><br /> 
-
-                        <p>2017 臺南Green-Life 高層集合住宅建築景觀園冶獎</p><br /> 
+						<p>
+                            不只是圖書館-澡堂花園<br />
+                            <div class="a_c_desc">2020 金點設計獎-年度最佳設計獎</div>
+                        </p>
+                        <br /> 
+						
+						<p>
+                            空總臺灣當代文化實驗場C-LAB-都市美學公園<br />
+                            <div class="a_c_desc">2020 臺北設計獎TIDA公共空間設計類-優選</div>
+                            <div class="a_c_desc">2020 Taiwan Design Best 100</div>
+                        </p><br /> 
+						
+						<p>
+                            嘉義美術館<br />
+                            <div class="a_c_desc">2020 臺灣建築獎入圍</div>
+                            <div class="a_c_desc">2020 第八屆景觀大賞-特殊主題類-優質獎</div>
+                        </p>
+                        <br /> 
+						
+						<p>
+                            璞園春生生<br />
+                            <div class="a_c_desc">2020 金點設計獎-標章</div>
+                        </p>
+                        <br /> 
+						
+						<p>
+                            水交社文化園區<br />
+                            <div class="a_c_desc">2020 金點設計獎-標章</div>
+                            <div class="a_c_desc">2020 第八屆景觀大賞-特殊主題類-傑出獎</div>
+                        </p>
+                        <br /> 
 
                         <p>
-                        2018 陽明山美軍俱樂部，倫敦設計獎國際景觀類金獎<br />
-                        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspLondon Design Awards Gold Winner</p><br /> 
+                            讀樂樂書席計畫 - 野地迷宮<br />
+                            <div class="a_c_desc">2020 金點設計獎-標章</div>
+                        </p>
+                        <br /> 
+
                         <p>
-                        2018 陽明山美軍俱樂部，金點設計獎<br />
-                        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspGoldenpin Design Awards Winner</p><br /> 
+                            新竹市圖書館新總館暨停車場興建工程<br />
+                            <div class="a_c_desc">2020 第八屆景觀大賞-環境規劃設計類-優質獎</div>
+                        </p>
+                        <br /> 
+
+
                         <p>
-                        2018 陽明山美軍俱樂部，歐洲景觀設計獎入圍<br />
-                        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspLandezine International Landscape Award</p><br /> 
+                        永安漁港整體規劃暨海螺文化體驗園區<br />
+                            <div class="a_c_desc">2020 八屆景觀大賞-環境規劃設計類-佳作獎</div>
+                        </p>
+                        <br /> 
 
-                        <p>2018 陽明山美軍俱樂部，臺灣建築獎入圍</p><br /> 
 
-                        <p>2018 陽明山美軍俱樂部，第五屆景觀大賞公共空間類首獎</p><br /> 
+                        <p>
+                        臺灣橫山書法藝術館<br />
+                            <div class="a_c_desc">2018 國家卓越建設獎「最佳規劃設計類-金質獎」</div>
+                        </p>
+                        <br /> 
 
-                        <p>2018 陽明山美軍俱樂部，台北設計獎優選</p><br /> 
+                        <p>
+                        竹市大坪頂納骨塔新建工程<br />
+                            <div class="a_c_desc">2018 國家卓越建設獎「最佳規劃設計類-金質獎」</div>
+                        </p>
+                        <br /> 
 
-                        <p>2018 臺灣橫山書法藝術館，國家卓越建設獎「最佳規劃設計類-金質獎」</p><br /> 
+                        <p>
+                        三井物產株式會社舊倉庫歷史建築景觀設計案<br />
+                            <div class="a_c_desc">2019 中華建築優良公共建設第27屆優良空間活化類規劃組-金石獎</div>
+                            <div class="a_c_desc">2019 倫敦設計獎-金獎</div>
+                            <div class="a_c_desc">2019 第七屆景觀大賞-公園綠地公共開放空間類-佳作</div>
+                            <div class="a_c_desc">2019 臺北設計獎TIDA公共空間設計類-優選</div>
+                            <div class="a_c_desc">2019 台灣光環境獎-入圍</div>
+                            <div class="a_c_desc">2019 德國IF設計獎</div>
+                            <div class="a_c_desc">2020 世界景觀建築師學會-傑出榮譽獎</div>
+                        </p>
+                        <br />
 
-                        <p>2019 「2018臺中花博后里森林園區」，第六屆景觀大賞 年度大獎</p><br /> 
+                        <p>
+                        2018 台中世界花卉博覽會地景設計及策展<br />
+                            <div class="a_c_desc">2018 第六屆景觀大賞-年度首獎</div>
+                            <div class="a_c_desc">2019 美國多年生植物學會-首獎</div>
+                            <div class="a_c_desc">2019 世界景觀建築師學會-評審團榮譽獎</div>
+                            <div class="a_c_desc">2019 金點設計獎-年度最佳設計獎</div>
+                            <div class="a_c_desc">2019 臺北設計獎TIDA公共空間設計類-優選</div>
+                            <div class="a_c_desc">2019 倫敦設計獎-金獎</div>
+                        </p>
+                        <br />
+
+                        <p>
+                        老房子文化運動計畫-陽明山美軍俱樂部歷史建築景觀設計案<br />
+                            <div class="a_c_desc">2017 第五屆景觀大賞公共空間類-首獎</div>
+                            <div class="a_c_desc">2017 臺灣建築獎入圍</div>
+                            <div class="a_c_desc">2018 倫敦設計獎國際景觀類-金獎</div>
+                            <div class="a_c_desc">2018 金點設計獎-標章</div>
+                            <div class="a_c_desc">2018 臺北設計獎TIDA公共空間設計類-優選</div>
+                            <div class="a_c_desc">2019 世界景觀建築師學會-評審團榮譽獎</div>
+                        </p>
+                        <br />
+
+                        <p>
+                        臺南Green-Life 高層集合住宅<br />
+                            <div class="a_c_desc">2017 臺南建築景觀園冶獎</div>
+                        </p>
+                        <br /> 
+
+                        <p>
+                        臺南I-Life高層集合住宅<br />
+                            <div class="a_c_desc">2015 臺南建築景觀園冶獎</div>
+                        </p>
+                        <br /> 
+                        
+                        <p>
+                        Melody Lane, London N5<br />
+                            <div class="a_c_desc">2004  英國新住宅設計大獎  London Housing Award </div>
+                        </p>
+                        <br /> 
+
+                        <p>
+                        Old baily open space design<br />
+                            <div class="a_c_desc">2005 英國街道空間設計大獎  Street Design Award </div>
+                        </p>
+                        <br /> 
+
+                        <p>
+                        Leicester Square<br />
+                            <div class="a_c_desc">2008 英國萊斯特廣場國際競圖-首獎 <br />Leicester Square Redesign International Competition Winner </div>
+                        </p>
+                        <br />
+
+                        <p>
+                        Regents Place<br />
+                            <div class="a_c_desc">2009 英國公民信託協會特別獎<br />Triton Square Civic Trust Award Winner</div>
+                        </p>
+                        <br />
+
+                        <p>
+                        Aldgate Place Park<br />
+                            <div class="a_c_desc">2010 英國皇家景觀建築師協會高度推薦獎<br />Aldgate Place Park Highly commended, LI</div>
+                        </p>
+                        <br />
+
+
                         <br />
                         <br />
                         <br />
                         <div class="member_second_menu clearfix" id="competition">
                             <ul>
-                            <li><a href="#award">award</a></li>
-                            <li><a href="#competition" style="color:#333;">competition</a></li>
+                                <li><a href="#award">award</a></li>
+                                <li><a href="#competition" style="color:#333;">competition</a></li>
                             </ul>
 				        </div>
                         <p>2014</p>
@@ -150,7 +249,21 @@
                         <p>臺灣客家茶文化館暨周邊景觀工程競圖 第二名</p><br /> 
                         <p>2018</p>
                         <p>三井倉庫歷史建築周邊景觀設計競圖 首獎</p>
-                        <p>臺北市交八廣場景觀綠美化工程景觀設計競圖 首獎</p>
+                        <p>臺北市交八廣場景觀綠美化工程景觀設計競圖 首獎</p><br /> 
+                        <p>2019</p>
+                        <p>交通部民用航空局「離島機場外觀風貌改造暨嘉義機場航廈改建可行性評估」 競圖 首獎</p>
+                        <p>空總臺灣當代文化實驗場C-LAB-都市美學公園競圖 首獎</p>
+                        <p>林田山林業文化園區修復及再利用整體規劃案競圖 首獎</p>
+                        <p>屏東縣潮州鎮聯合辦公大樓競圖 首獎</p>
+                        <p>新竹市圖書館新總館競圖 首獎</p>
+                        <p>國立成功大學東寧校區學生宿舍興建工程競圖 首獎</p>
+                        <p>故宮國寶文物修復展示館建置計畫工程競圖 入圍</p><br /> 
+                        <p>2020</p>
+                        <p>臺南市新幹線零系車輛策展競圖 首獎</p>
+                        <p>臺中市霧峰聯合辦公園競圖 第二名</p><br />
+                        <p>2021</p>
+                        <p>國立臺灣科學教育館「新型態閱讀學習共享空間再造」委託設計監造技術服務案  競圖 首獎</p><br />
+                        
 
 
                     </div>

@@ -128,6 +128,41 @@
     height:500px;
     background-size:cover;
 }
+#index27{
+    background-image:url("../images/sliderImg/27.jpg");
+    height:500px;
+    background-size:cover;
+}
+#index28{
+    background-image:url("../images/sliderImg/28.jpg");
+    height:500px;
+    background-size:cover;
+}
+#index29{
+    background-image:url("../images/sliderImg/29.jpg");
+    height:500px;
+    background-size:cover;
+}
+#index30{
+    background-image:url("../images/sliderImg/30.jpg");
+    height:500px;
+    background-size:cover;
+}
+#index31{
+    background-image:url("../images/sliderImg/31.jpg");
+    height:500px;
+    background-size:cover;
+}
+#index32{
+    background-image:url("../images/sliderImg/32.jpg");
+    height:500px;
+    background-size:cover;
+}
+#index33{
+    background-image:url("../images/sliderImg/33.jpg");
+    height:500px;
+    background-size:cover;
+}
 .mobileimg{
     display: none;
 }

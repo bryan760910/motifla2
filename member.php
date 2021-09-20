@@ -191,18 +191,8 @@
 									</div>
 								</td>
 								<td></td>
-								<td data-id="team__08">
-									<img src="theme/images/member/team__08.jpg" width="98" height="98" />
-									<div class="picbox" style="position:absolute; top:0; left:0; display:none; z-index:1;">
-										<img src="theme/images/member/team__08.jpg" />
-									</div>
-								</td>
-								<td data-id="team__09">
-									<img src="theme/images/member/team__09.jpg" width="98" height="98" />
-									<div class="picbox" style="position:absolute; top:0; left:0; display:none; z-index:1;">
-										<img src="theme/images/member/team__09.jpg" />
-									</div>
-								</td>
+								<td></td>
+								<td></td>
 							</tr>
 						</tbody>
 					</table>
@@ -210,15 +200,18 @@
 				<div class="left_content">
 					<div class="member_detail director__01">
 						<p class="name">吳書原 Shu Yuan Wu</p>
-						<p class="desc">1998 &nbsp;東海大學 景觀學士</p>
-						<p class="desc">2004 &nbsp;英國AA建築聯盟學院 景觀碩士</p>
-						<p class="desc">2005 &nbsp;英國建築學會 會員 AA</p>
-						<p class="desc">2006 &nbsp;英國皇家景觀建築師協會 副會員 ALI</p>
-						<p class="desc">2010 &nbsp;中國註冊一級景觀技師</p>
+						<p class="desc">東海大學 景觀學士</p>
+						<p class="desc">英國AA建築聯盟學院 景觀碩士</p>
+						<p class="desc">英國建築學會 會員 AA</p>
+						<p class="desc">英國皇家景觀建築師協會 副會員 ALI</p>
+						<p class="desc">中國註冊一級景觀技師</p>
+						<p class="desc">IFLA 國際景觀建築師學會 會員</p>
+						<p class="desc">LIUK 英國皇家景觀建築師學會 副會員</p>
 						<p class="title">專職實務經歷</p>
 						<p class="desc">Burns + Nice London ,UK 都市設計師</p>
 						<p class="desc">EDCO Design London ,UK 景觀建築師</p>
 						<p class="desc">太研規劃設計顧問有限公司 主持人 / 設計總監 2012迄今</p>
+						<p class="desc">2018 臺中世界花卉博覽會 策展人</p>
 						<br />
 						<p class="desc">1998 &nbsp;1998 BSc THU Landscape Architecture</p>
 						<p class="desc">2004 &nbsp;2004 MA AA Landscape Urbanism</p>
@@ -262,14 +255,6 @@
 					<div class="member_detail team__07" style="display:none;">
 						<p class="name">何品儀 Pin Ho</p>
 						<p class="desc">畢業於中原大學景觀學系，現為 Motif 專案經理，在景觀業界有多年實務經驗，擅長都市規劃設計、3D電腦運算、電腦繪圖。</p>
-					</div>
-					<div class="member_detail team__08" style="display:none;">
-						<p class="name">林巧妮 Chiao Ni, Lin</p>
-						<p class="desc">畢業於勤益科技大學景觀學系， 現為 Motif 設計師，擅長景觀設計、3D電腦運算、電腦繪圖。</p>
-					</div>
-					<div class="member_detail team__09" style="display:none;">
-						<p class="name">高家駿 Grey Kao</p>
-						<p class="desc">畢業於中原大學景觀學系，現為 Motif 設計師，擅長景觀設計、3D電腦運算、電腦繪圖。</p>
 					</div>
 				</div>
 			</div>

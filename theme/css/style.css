@@ -208,11 +208,9 @@ input[type="password"],
 /*=========================*/
 
 h1 {
-    font-size: ;
 }
 
 h2 {
-    font-size: ;
 }
 
 h3 {
@@ -550,7 +548,7 @@ header>p {
     right: 9%;
     bottom: 75px;
     display: none;
-    background: #33333;
+    background: #333333;
     line-height: 50px;
     transition: all 0.5s;
     text-align: center;
@@ -771,17 +769,21 @@ header>p {
 .wrapper .publications_page .right_content>div {
     margin: 0px 0 0px 0;
 }
-
-.wrapper .publications_page .right_content>p>a:hover {
-    color: #881B20;
+.wrapper .publications_page .right_content>.a_c_desc {
+    margin-left: 30px;
 }
+.wrapper .publications_page .right_content>p>a:hover, .wrapper .publications_page .right_content .pub_desc a:hover {
+    color: #881B20;
+}   
 
-.wrapper .publications_page .right_content>p>a {
+.wrapper .publications_page .right_content>p>a, .wrapper .publications_page .right_content .pub_desc a {
     text-decoration: none;
     color: black;
     display: block;
 }
-
+.wrapper .publications_page .right_content .pub_desc {
+    margin-left: 30px;
+}
 /*.wrapper .publications_page .right_content>p:first-child {
     margin-top: 0;
 }*/
