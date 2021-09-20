@@ -1,0 +1,156 @@
+#index1{
+    background-image:url("../images/sliderImg/1.jpg");
+    height:500px;
+    background-size:cover;
+}
+#index2{
+    background-image:url("../images/sliderImg/2.jpg");
+    height:500px;
+    background-size:cover;
+}
+#index3{
+    background-image:url("../images/sliderImg/3.jpg");
+    height:500px;
+    background-size:cover;
+}
+#index4{
+    background-image:url("../images/sliderImg/4.jpg");
+    height:500px;
+    background-size:cover;
+}
+#index5{
+    background-image:url("../images/sliderImg/5.jpg");
+    height:500px;
+    background-size:cover;
+}
+#index6{
+    background-image:url("../images/sliderImg/6.jpg");
+    height:500px;
+    background-size:cover;
+}
+#index7{
+    background-image:url("../images/sliderImg/7.jpg");
+    height:500px;
+    background-size:cover;
+}
+#index8{
+    background-image:url("../images/sliderImg/8.jpg");
+    height:500px;
+    background-size:cover;
+}
+#index9{
+    background-image:url("../images/sliderImg/9.jpg");
+    height:500px;
+    background-size:cover;
+}
+#index10{
+    background-image:url("../images/sliderImg/10.jpg");
+    height:500px;
+    background-size:cover;
+}
+#index11{
+    background-image:url("../images/sliderImg/11.jpg");
+    height:500px;
+    background-size:cover;
+}
+#index12{
+    background-image:url("../images/sliderImg/12.jpg");
+    height:500px;
+    background-size:cover;
+}
+#index13{
+    background-image:url("../images/sliderImg/13.jpg");
+    height:500px;
+    background-size:cover;
+}
+#index14{
+    background-image:url("../images/sliderImg/14.jpg");
+    height:500px;
+    background-size:cover;
+}
+#index15{
+    background-image:url("../images/sliderImg/15.jpg");
+    height:500px;
+    background-size:cover;
+}
+#index16{
+    background-image:url("../images/sliderImg/16.jpg");
+    height:500px;
+    background-size:cover;
+}
+#index17{
+    background-image:url("../images/sliderImg/17.jpg");
+    height:500px;
+    background-size:cover;
+}
+#index18{
+    background-image:url("../images/sliderImg/18.jpg");
+    height:500px;
+    background-size:cover;
+}
+#index19{
+    background-image:url("../images/sliderImg/19.jpg");
+    height:500px;
+    background-size:cover;
+}
+#index20{
+    background-image:url("../images/sliderImg/20.jpg");
+    height:500px;
+    background-size:cover;
+}
+#index21{
+    background-image:url("../images/sliderImg/21.jpg");
+    height:500px;
+    background-size:cover;
+}
+#index22{
+    background-image:url("../images/sliderImg/22.jpg");
+    height:500px;
+    background-size:cover;
+}
+#index23{
+    background-image:url("../images/sliderImg/23.jpg");
+    height:500px;
+    background-size:cover;
+}
+#index24{
+    background-image:url("../images/sliderImg/24.jpg");
+    height:500px;
+    background-size:cover;
+}
+#index25{
+    background-image:url("../images/sliderImg/25.jpg");
+    height:500px;
+    background-size:cover;
+}
+#index26{
+    background-image:url("../images/sliderImg/26.jpg");
+    height:500px;
+    background-size:cover;
+}
+.mobileimg{
+    display: none;
+}
+
+@media only screen and (max-width: 500px) {
+    .computerimg{
+        display: none!important;
+    }
+    .mobileimg{
+        display: block;
+        height: 100%;
+        overflow: hidden;
+    }
+    .mobileimg img{
+        width: 100%;
+        height: 100%;
+    }
+}
+
+@media only screen and ( max-height: 736px ) {
+    .positionimg{
+        object-fit: cover;
+        object-position: 0px -146px;
+    }
+}
+

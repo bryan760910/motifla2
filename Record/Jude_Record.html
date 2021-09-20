@@ -1,0 +1,175 @@
+<!DOCTYPE>
+<html>
+    <head>
+        <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.9.1.js"></script>
+        <title>Jude's Record</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <script type="text/javascript" src="Jude_Record.js"></script>
+        <link href="Jude_Record.css" rel="stylesheet" />
+        
+        <!-- Add jQuery library -->
+        <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+
+        <!-- Add mousewheel plugin (this is optional) -->
+        <script type="text/javascript" src="fancybox/lib/jquery.mousewheel-3.0.6.pack.js"></script>
+
+        <!-- Add fancyBox -->
+        <link rel="stylesheet" href="fancybox/source/jquery.fancybox.css" type="text/css" media="screen" />
+        <script type="text/javascript" src="fancybox/source/jquery.fancybox.pack.js"></script>
+
+        <!-- Optionally add helpers - button, thumbnail and/or media -->
+        <link rel="stylesheet" href="fancybox/source/helpers/jquery.fancybox-buttons.css" type="text/css" media="screen" />
+        <script type="text/javascript" src="fancybox/source/helpers/jquery.fancybox-buttons.js"></script>
+        <script type="text/javascript" src="fancybox/source/helpers/jquery.fancybox-media.js"></script>
+
+        <link rel="stylesheet" href="fancybox/source/helpers/jquery.fancybox-thumbs.css" type="text/css" media="screen" />
+        <script type="text/javascript" src="fancybox/source/helpers/jquery.fancybox-thumbs.js"></script>
+        
+        <!-- 最新編譯和最佳化的 CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+        <!-- 選擇性佈景主題 -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">
+        <!-- 最新編譯和最佳化的 JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+        
+    </head>
+    <body>
+        <header class="clearfix">
+            <div id="time">
+                <div id="clock" class="glyphicon glyphicon-time"></div>
+                <div id="showTime"></div>
+            </div>
+            <div id="logo"></div>
+            <ul id="menu">
+                <li><a href="#">自我介紹</a></li>
+                <li><a href="#">作品</a></li>
+                <li><a href="#">自傳</a></li>
+            </ul>
+        </header>
+        <div id="bgImg" class="aboutMeBG">
+            <main class="aboutMeBG changePadding">
+                <div id="aboutMe" class="clearfix">
+                    <h1 class="h1Display">自我介紹</h1>
+                    <div class="slideshow">
+                        <ul>
+                            <li>
+                                <a href="#">
+                                    <img src="images/introduction.png" title="" alt="" />
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <img src="images/condition.png" title="" alt="" />
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <img src="images/education.png" title="" alt="" />
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <img src="images/experience.png" title="" alt="" />
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>    
+            </main>
+            <main class="productsBG display_none">
+                <div id="products">
+                    <div class="col-xs-6 col-sm-6 col-md-6">
+                        <h2>井字遊戲</h2>    
+                        <div id="ooxx" data="" class="">
+                            <a class="fancybox fancybox.iframe" href="ooxx.html" target="_blank">
+                                <img src="images/ooxxPic.jpg" width="200px" height="150px" alt="">
+                            </a>
+                            <ul>
+                                <li><h4>作法概述：</h4>
+                                    <ol>
+                                        <li>用table做出一個3*3表格</li>
+                                        <li>再用if和else做出o與x的交替輸出</li>
+                                        <li>然後寫一個判斷function來辨別輸贏</li>
+                                    </ol>
+                                </li>    
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-6 col-md-6">
+                        <h2>撲克遊戲</h2>
+                        <div id="poker" data="" class="">
+                            <a class="fancybox fancybox.iframe" href="poker.html" target="_blank">
+                                <img src="images/pokerPic.jpg" width="200px" height="150px" alt="">
+                            </a>
+                            <ul>
+                                <li><h4>作法概述：</h4>
+                                    <ol>
+                                        <li>先訂好這個撲克的玩法及規則</li>
+                                        <li>寫好button的功能</li>
+                                        <li>然後寫一個判斷function來辨別輸贏</li>
+                                    </ol>
+                                </li>    
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-6 col-md-6">
+                        <h2>猜數字</h2>
+                        <div id="guess" data="" class="">
+                            <a class="fancybox fancybox.iframe" href="guessNumber.html" target="_blank">
+                                <img src="images/guessPic.jpg" width="200px" height="150px" alt="">
+                            </a>
+                            <ul>
+                                <li><h4>作法概述：</h4>
+                                    <ol>
+                                        <li>先把版面切好，button功能寫好</li>
+                                        <li>用input來接輸入的值</li>
+                                        <li>把值丟入判斷式中，給出結果</li>
+                                    </ol>
+                                </li>    
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-6 col-md-6">
+                        <h2>貪食蛇</h2>
+                        <div id="snake" data="" class="" target="_blank">
+                            <a class="fancybox fancybox.iframe" href="snake.html" target="_blank">
+                                <img src="images/snakePic.jpg" width="200px" height="150px" alt="">
+                        </a>
+                            <ul>
+                                <li><h4>作法概述：</h4>
+                                    <ol>
+                                        <li>用JS畫出一個30*30的div網格</li>
+                                        <li>做好蛇一開始的長度，食物隨機擺放</li>
+                                        <li>連接好windows的上下左右鍵</li>
+                                    </ol>
+                                </li>    
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </main>
+            <main class="autobiographyBG display_none changePadding">
+                <div id="autobiography">
+                    <h1 class="h1Display" data="">自傳</h1>
+                    <div>
+                        <p>我的名字是黃丞志，目前28歲，最希望從事的職務是網頁、前端等相關工作，希望能找到值得終身投入的好公司。</p>
+                        <p>我的個性有點內向，不過有顆善良又溫和的心，在工作上一向按部就班，一定盡全力努力完成上級所交付的任務，平常喜歡慢跑和游泳。待業期間都在巨匠進修電腦相關技能(PhotoShop、Dreamweaver、Javascript、jQuery、HTML、CSS、RWD相關課程)，課餘時間都是由我朋友藉由Brackets教我有關前端程式的切版、語法以及JS。</p>
+                        <p>雖然我之前在餐飲業工作了五年跟電腦前端程式毫無相關，但就因為我在餐飲業有五年之久，並且從事過店長職，我相信我更加能吃苦，更加能來者不拒，雖然目前對電腦前端程式這塊涉略經驗不豐富也時間不長，我很願意學、不懂一定請教或上網查、即使出錯了絕不會再錯第二次，一定盡全力往上爬。</p>
+                        <p>電腦是這個世代很重要的科技產物，我對於辦公室軟體(Word, Excel, PowerPoint)、繪圖軟體(PhotoShop)、網頁製作(Dreamweaver, Brackets)、以及程式語言(HTML,CSS,Javascript)都熟悉，至於英文是目前通用的語言，報考多益TOEIC多次，最高分的一次是560分。</p>
+                        <p>在步入社會就職五年之後，期許自己在程式設計這新的領域更加深入耕耘。職涯是一條漫長的路，誠信、真心是我的處事方法，全力以赴是我的態度，隨時準備好是繼續下去的關鍵。若要為自己下句評語，我的期望是「更加努力，邁向成功。」，謝謝您將我的履歷列入考慮。</p>
+                    </div>
+                </div>
+            </main>
+        </div>
+        <footer>
+            <div id="mail">
+                <div class="icon_color glyphicon glyphicon-envelope"></div>
+                <div class="text_color">E-mail：<a href="mailto:sausage760703@gmail.com" target="_top">sausage760703@gmail.com</a></div>
+            </div>
+            <div id="phone">
+                <div class="icon_color glyphicon glyphicon-earphone"></div>
+                <div class="text_color">Phone：<a href="#">0909-209375</a></div>
+            </div>
+        </footer>
+    </body>
+</html>
