@@ -40,7 +40,7 @@
 						<span class="left_content_desc_title">Client :</span> Chiayi City Government <br />
 						<span class="left_content_desc_title">Location :</span> Chiayi City, TW <br />
                         <span class="left_content_desc_title">Typology :</span> museumB221 <br />
-                        <span class="left_content_desc_title">Status :</span> 2014 - built <br />
+                        <span class="left_content_desc_title">Status :</span> 2014 - 2020 <br />
 						<span class="left_content_desc_title">Size  :</span> 4,211 M2 <br />
 						<span class="left_content_desc_title">Architect  :</span> Studio Base Architects <br />
 						<span class="left_content_desc_title ch" style="margin-left:62px;"></span>M‧H‧Wang Architects and Associate <br /><br />
@@ -50,8 +50,9 @@
 						<span class="left_content_desc_title ch">進度 :</span> 2014 - 建造中 <br />
 						<span class="left_content_desc_title ch">建築 :</span> 黃明威建築師事務所 <br />
 						<span class="left_content_desc_title ch" style="margin-left:36px;"></span>王銘顯建築師事務所 <br />
-						<span class="left_content_desc_title ch">重要獎項 :</span> 2014 競圖首獎<br />
-						<span class="left_content_desc_title ch" style="margin-left:60px;"></span> competition winner <br />
+						<span class="left_content_desc_title ch">重要獎項 :</span> 2020 第八屆景觀大賞-特殊主題類-優質獎<br />
+						<span class="left_content_desc_title ch" style="margin-left:60px;"></span> TILA - Award of Excellence <br />
+						<span class="left_content_desc_title ch" style="margin-left:60px;"></span> 2020 臺灣建築獎入圍 <br />
 					</p>
 				</div>
 				<div class="right_content">
@@ -60,6 +61,8 @@
 					<div><img src="../theme/images/43/3.jpg" /></div>
 					<div><img src="../theme/images/43/4.jpg" /></div>
 					<div><img src="../theme/images/43/5.jpg" /></div>
+					<div><img src="../theme/images/43/6.jpg" /></div>
+					<div><img src="../theme/images/43/7.jpg" /></div>
 				</div>
 
 			</div>
