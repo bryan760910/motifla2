@@ -49,9 +49,20 @@
                         <span class="left_content_desc_title ch">業主 :</span> 臺北市政府文化局  <br />
                         <span class="left_content_desc_title ch" style="margin-left:34px;"></span> 臺北市政府工務局公園路燈管理處 <br />
 						<span class="left_content_desc_title ch">類型 :</span> 歷史空間再造 <br />
-						<span class="left_content_desc_title ch">進度 :</span> 2017 - 建造中 <br />
-                        <span class="left_content_desc_title ch">重要獎項 :</span> 2017 競圖首獎 <br />
-                        <span class="left_content_desc_title ch" style="margin-left:58px;"></span> competition winner <br />
+                        <span class="left_content_desc_title ch">重要獎項 :</span> 2019 中華建築優良公共建設優良空間活化類 <br />
+                        <span class="left_content_desc_title ch" style="margin-left:58px;"></span> 規劃組-金石獎 <br />
+						<span class="left_content_desc_title ch" style="margin-left:58px;"></span> 2019 倫敦設計獎-金獎 <br />
+						<span class="left_content_desc_title ch" style="margin-left:58px;"></span> London Design Awards Gold Award <br />
+						<span class="left_content_desc_title ch" style="margin-left:58px;"></span> 2019 第七屆景觀大賞-公園綠地公共開放空間類-佳作 <br />
+						<span class="left_content_desc_title ch" style="margin-left:58px;"></span> 7th Taiwan Landscape Architecture Award <br />
+						<span class="left_content_desc_title ch" style="margin-left:58px;"></span> 2019 臺北設計獎TIDA公共空間設計類-優選 <br />
+						<span class="left_content_desc_title ch" style="margin-left:58px;"></span> Taipei International Design Award <br />
+						<span class="left_content_desc_title ch" style="margin-left:58px;"></span> 2019 台灣光環境獎-入圍 <br />
+						<span class="left_content_desc_title ch" style="margin-left:58px;"></span> Taiwan Environment Lighting Award <br />
+						<span class="left_content_desc_title ch" style="margin-left:58px;"></span> 2019 德國IF設計獎 <br />
+						<span class="left_content_desc_title ch" style="margin-left:58px;"></span> iF DESIGN AWARD 2020 <br />
+						<span class="left_content_desc_title ch" style="margin-left:58px;"></span> 2020 世界景觀建築師學會-傑出榮譽獎 <br />
+						<span class="left_content_desc_title ch" style="margin-left:58px;"></span> 2020 IFLA AAPME Awards-Outstanding Award <br />
                     </p>
 				</div>
 				<div class="right_content">
@@ -59,19 +70,9 @@
                     <div><img src="../theme/images/3/2.jpg" /></div>
                     <div><img src="../theme/images/3/3.jpg" /></div>
                     <div><img src="../theme/images/3/4.jpg" /></div>
-                    <div><img src="../theme/images/3/4-2.jpg" /></div>
                     <div><img src="../theme/images/3/5.jpg" /></div>
                     <div><img src="../theme/images/3/6.jpg" /></div>
-                    <div><img src="../theme/images/3/6-2.jpg" /></div>
                     <div><img src="../theme/images/3/7.jpg" /></div>
-                    <div><img src="../theme/images/3/9.jpg" /></div>
-                    <div><img src="../theme/images/3/10.jpg" /></div>
-					<div><img src="../theme/images/3/11.jpg" /></div>
-                    <div><img src="../theme/images/3/11-2.jpg" /></div>
-                    <div><img src="../theme/images/3/11-3.jpg" /></div>
-                    <div><img src="../theme/images/3/11-4.jpg" /></div>
-                    <div><img src="../theme/images/3/12.jpg" /></div>
-                    <div><img src="../theme/images/3/13.jpg" /></div>
 				</div>
 
 			</div>
