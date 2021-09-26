@@ -41,7 +41,7 @@
 						<span class="left_content_desc_title">Location :</span> Tainan, TW <br />
                         <span class="left_content_desc_title">Typology :</span> residence <br />
                         <span class="left_content_desc_title">Status :</span> 2014 - 2017 <br />
-						<span class="left_content_desc_title">Size  :</span> 3,372 M2 (site B) <br />
+						<span class="left_content_desc_title">Size  :</span> 1.2 ha. <br />
 						<span class="left_content_desc_title">Architect  :</span>  Q-Lab Design <br /><br />
 						
 						<span class="left_content_desc_title ch">業主 :</span> 僑昱建築 <br />
@@ -57,7 +57,6 @@
                     <div><img src="../theme/images/15/3-2.jpg" /></div>
                     <div><img src="../theme/images/15/4.jpg" /></div>
                     <div><img src="../theme/images/15/5.jpg" /></div>
-                    <div><img src="../theme/images/15/7.jpg" /></div>
 				</div>
 
 			</div>
