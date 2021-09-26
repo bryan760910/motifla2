@@ -51,38 +51,30 @@
 						<span class="left_content_desc_title ch">工程 :</span> 山水景觀工程股份有限公司 <br />
                         <span class="left_content_desc_title ch">重要獎項 :</span>  2019 第6屆臺灣景觀大賞 年度大獎 <br />
                         <span class="left_content_desc_title ch" style="margin-left:60px;"></span> 6th Taiwan Landscape Architecture Award Winner <br />
+						<span class="left_content_desc_title ch" style="margin-left:60px;"></span> 2019 美國多年生植物學會-首獎 <br />
+						<span class="left_content_desc_title ch" style="margin-left:60px;"></span> PPA Landscape Design Award Winner <br />
+						<span class="left_content_desc_title ch" style="margin-left:60px;"></span> 2019 世界景觀建築師學會-評審團榮譽獎 <br />
+						<span class="left_content_desc_title ch" style="margin-left:60px;"></span> IFLA-PAC LA Awards-Honorable mention <br />
+						<span class="left_content_desc_title ch" style="margin-left:60px;"></span> 2019 金點設計獎-年度最佳設計獎 <br />
+						<span class="left_content_desc_title ch" style="margin-left:60px;"></span> Goldenpin Design Awards <br />
+						<span class="left_content_desc_title ch" style="margin-left:60px;"></span> 2019 臺北設計獎TIDA公共空間設計類-優選 <br />
+						<span class="left_content_desc_title ch" style="margin-left:60px;"></span> Taipei International Design Award <br />
+						<span class="left_content_desc_title ch" style="margin-left:60px;"></span> 2019 倫敦設計獎-金獎 <br />
+						<span class="left_content_desc_title ch" style="margin-left:60px;"></span>  London Design Awards Gold Award <br />
                     </p>
 				</div>
 				<div class="right_content">
-                    <div><img src="../theme/images/4/01.jpg" /></div>
-                    <div><img src="../theme/images/4/02.jpg" /></div>
-                    <div><img src="../theme/images/4/02-2.jpg" /></div>
-                    <div><img src="../theme/images/4/03.jpg" /></div>
-                    <div><img src="../theme/images/4/04.jpg" /></div>
-                    <div><img src="../theme/images/4/04-2.jpg" /></div>
-                    <div><img src="../theme/images/4/04-3.jpg" /></div>
-                    <div><img src="../theme/images/4/05.jpg" /></div>
-                    <div><img src="../theme/images/4/05-2.jpg" /></div>
-                    <div><img src="../theme/images/4/05-3.jpg" /></div>
-                    <div><img src="../theme/images/4/06-1.jpg" /></div>
-                    <div><img src="../theme/images/4/06-2.jpg" /></div>
-                    <div><img src="../theme/images/4/07-1.jpg" /></div>
-                    <div><img src="../theme/images/4/07-3.jpg" /></div>
-                    <div><img src="../theme/images/4/07-4.jpg" /></div>
-                    <div><img src="../theme/images/4/07-5.jpg" /></div>
-                    <div><img src="../theme/images/4/08-1.jpg" /></div>
-                    <div><img src="../theme/images/4/08-2.jpg" /></div>
-                    <div><img src="../theme/images/4/08-3.jpg" /></div>
-                    <div><img src="../theme/images/4/08-4.jpg" /></div>
-                    <div><img src="../theme/images/4/08-5.jpg" /></div>
-					<div><img src="../theme/images/4/09.jpg" /></div>
-                    <div><img src="../theme/images/4/09-2.jpg" /></div>
-                    <div><img src="../theme/images/4/09-3.jpg" /></div>
-                    <div><img src="../theme/images/4/10-1.jpg" /></div>
-                    <div><img src="../theme/images/4/10-2.jpg" /></div>
-                    <div><img src="../theme/images/4/10-3.jpg" /></div>
-					<div><img src="../theme/images/4/11.jpg" /></div>
-                    <div><img src="../theme/images/4/11-2.jpg" /></div>
+                    <div><img src="../theme/images/4/1.jpg" /></div>
+                    <div><img src="../theme/images/4/2.jpg" /></div>
+                    <div><img src="../theme/images/4/3.jpg" /></div>
+                    <div><img src="../theme/images/4/4.jpg" /></div>
+                    <div><img src="../theme/images/4/5.jpg" /></div>
+                    <div><img src="../theme/images/4/6.jpg" /></div>
+                    <div><img src="../theme/images/4/7.jpg" /></div>
+                    <div><img src="../theme/images/4/8.jpg" /></div>
+                    <div><img src="../theme/images/4/9.jpg" /></div>
+                    <div><img src="../theme/images/4/10.jpg" /></div>
+                    <div><img src="../theme/images/4/11.jpg" /></div>
                     <div><img src="../theme/images/4/12.jpg" /></div>
                     <div><img src="../theme/images/4/13.jpg" /></div>
                     <div><img src="../theme/images/4/14.jpg" /></div>
@@ -92,6 +84,16 @@
                     <div><img src="../theme/images/4/18.jpg" /></div>
                     <div><img src="../theme/images/4/19.jpg" /></div>
                     <div><img src="../theme/images/4/20.jpg" /></div>
+                    <div><img src="../theme/images/4/21.jpg" /></div>
+					<div><img src="../theme/images/4/22.jpg" /></div>
+                    <div><img src="../theme/images/4/23.jpg" /></div>
+                    <div><img src="../theme/images/4/24.jpg" /></div>
+                    <div><img src="../theme/images/4/25.jpg" /></div>
+                    <div><img src="../theme/images/4/26.jpg" /></div>
+                    <div><img src="../theme/images/4/27.jpg" /></div>
+					<div><img src="../theme/images/4/28.jpg" /></div>
+                    <div><img src="../theme/images/4/29.jpg" /></div>
+                    <div><img src="../theme/images/4/30.jpg" /></div>
 				</div>
 
 			</div>
