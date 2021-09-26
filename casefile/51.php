@@ -46,7 +46,7 @@
 						
 						<span class="left_content_desc_title ch">業主 :</span> 臺中市政府 <br />
 						<span class="left_content_desc_title ch">類型 :</span> 公園 <br />
-						<span class="left_content_desc_title ch">進度 :</span> 2018 - 執行中 <br />
+						<span class="left_content_desc_title ch">進度 :</span> 2018 - 2019 <br />
 						<span class="left_content_desc_title ch">建築 :</span> 欣樺工程有限公司 <br />
 						<span class="left_content_desc_title ch">重要獎項 :</span> 2018 競圖首獎 <br />
 						<span class="left_content_desc_title ch" style="margin-left:60px;"></span> competition winner <br />
@@ -55,6 +55,10 @@
 				<div class="right_content">
 					<div><img src="../theme/images/51/1.jpg" /></div>
 					<div><img src="../theme/images/51/2.jpg" /></div>
+					<div><img src="../theme/images/51/3.jpg" /></div>
+					<div><img src="../theme/images/51/4.jpg" /></div>
+					<div><img src="../theme/images/51/5.jpg" /></div>
+
 					<!-- <div><img src="../theme/images/51/3.jpg" /></div>
 					<div><img src="../theme/images/51/4.jpg" /></div> -->
 				</div>

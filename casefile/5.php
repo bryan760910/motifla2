@@ -55,21 +55,10 @@
 				</div>
 				<div class="right_content">
 					<div><img src="../theme/images/5/1.jpg" /></div>
-					<div><img src="../theme/images/5/2-1.jpg" /></div>
-					<div><img src="../theme/images/5/2-2.jpg" /></div>
+					<div><img src="../theme/images/5/2.jpg" /></div>
 					<div><img src="../theme/images/5/3.jpg" /></div>
 					<div><img src="../theme/images/5/4.jpg" /></div>
 					<div><img src="../theme/images/5/5.jpg" /></div>
-					<div><img src="../theme/images/5/6.jpg" /></div>
-					<div><img src="../theme/images/5/7.jpg" /></div>
-					<div><img src="../theme/images/5/8.jpg" /></div>
-					<div><img src="../theme/images/5/8-2.jpg" /></div>
-					<div><img src="../theme/images/5/9.jpg" /></div>
-					<div><img src="../theme/images/5/10.jpg" /></div>
-					<div><img src="../theme/images/5/11.jpg" /></div>
-					<div><img src="../theme/images/5/12.jpg" /></div>
-					<div><img src="../theme/images/5/14.jpg" /></div>
-					<div><img src="../theme/images/5/16.jpg" /></div>
 				</div>
 
 			</div>
