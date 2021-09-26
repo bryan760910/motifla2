@@ -48,7 +48,7 @@
 						
 						<span class="left_content_desc_title ch">業主 :</span> 新竹市政府 <br />
 						<span class="left_content_desc_title ch">類型 :</span> 集合住宅 <br />
-						<span class="left_content_desc_title ch">進度 :</span> 2015 - 建造中 <br />
+						<span class="left_content_desc_title ch">進度 :</span> 2015 - 2020 <br />
 						<span class="left_content_desc_title ch">建築 :</span> 王銘鴻建築師事務所 <br />
                         
                     </p>
@@ -57,6 +57,8 @@
                     <div><img src="../theme/images/27/1.jpg" /></div>
                     <div><img src="../theme/images/27/2.jpg" /></div>
                     <div><img src="../theme/images/27/3.jpg" /></div>
+					<div><img src="../theme/images/27/4.jpg" /></div>
+                    <div><img src="../theme/images/27/5.jpg" /></div>
 				</div>
 
 			</div>
