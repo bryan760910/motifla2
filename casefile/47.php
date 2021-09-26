@@ -40,7 +40,7 @@
 						<span class="left_content_desc_title">Client :</span> Taoyuan City Government <br />
 						<span class="left_content_desc_title">Location :</span> Taoyuan City, TW <br />
                         <span class="left_content_desc_title">Typology :</span> culture ‧ museum <br />
-                        <span class="left_content_desc_title">Status :</span> 2016 - built <br />
+                        <span class="left_content_desc_title">Status :</span> 2016 - 2019 <br />
 						<span class="left_content_desc_title">Size  :</span> 2.7 ha <br />
 						<span class="left_content_desc_title">Architect  :</span> AUD+ ARCHITECTS <br /><br />
 						

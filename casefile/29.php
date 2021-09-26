@@ -40,7 +40,7 @@
 						<span class="left_content_desc_title">Client :</span> Forworld Enterprise <br />
 						<span class="left_content_desc_title">Location :</span>  New Taipei City, TW <br />
                         <span class="left_content_desc_title">Typology :</span> residence <br />
-                        <span class="left_content_desc_title">Status :</span> 2016 - built <br />
+                        <span class="left_content_desc_title">Status :</span> 2016 - 2019 <br />
 						<span class="left_content_desc_title">Size  :</span>  1,960 M2 <br />
 						<span class="left_content_desc_title">Architect  :</span> DA-JU Architects <br />
                         <span class="left_content_desc_title ch" style="margin-left:63px;"></span> & Associates <br />
@@ -55,6 +55,9 @@
 				</div>
 				<div class="right_content">
                     <div><img src="../theme/images/29/1.jpg" /></div>
+					<div><img src="../theme/images/29/2.jpg" /></div>
+					<div><img src="../theme/images/29/3.jpg" /></div>
+					<div><img src="../theme/images/29/4.jpg" /></div>
 				</div>
 
 			</div>
