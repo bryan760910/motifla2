@@ -54,19 +54,17 @@
                     </p>
 				</div>
 				<div class="right_content">
-                    <!-- <div><img src="../theme/images/60/1.jpg" /></div>
-                    <div><img src="../theme/images/60/2.jpg" /></div> -->
+                    <div><img src="../theme/images/60/1.jpg" /></div>
+                    <div><img src="../theme/images/60/2.jpg" /></div>
                     <div><img src="../theme/images/60/3.jpg" /></div>
                     <div><img src="../theme/images/60/4.jpg" /></div>
                     <div><img src="../theme/images/60/5.jpg" /></div>
                     <div><img src="../theme/images/60/6.jpg" /></div>
-                    <div><img src="../theme/images/60/6-2.jpg" /></div>
                     <div><img src="../theme/images/60/7.jpg" /></div>
                     <div><img src="../theme/images/60/8.jpg" /></div>
                     <div><img src="../theme/images/60/9.jpg" /></div>
                     <div><img src="../theme/images/60/10.jpg" /></div>
-                    <div><img src="../theme/images/60/12.jpg" /></div>
-                    <div><img src="../theme/images/60/13.jpg" /></div>
+                    <div><img src="../theme/images/60/11.jpg" /></div>
 				</div>
 
 			</div>
