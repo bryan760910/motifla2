@@ -40,7 +40,7 @@
 						<span class="left_content_desc_title">Client :</span> Tainan City Government <br />
 						<span class="left_content_desc_title">Location :</span> Tainan City, TW <br />
                         <span class="left_content_desc_title">Typology :</span> culture <br />
-                        <span class="left_content_desc_title">Status :</span> 2016 - built <br />
+                        <span class="left_content_desc_title">Status :</span> 2016 - 2020 <br />
 						<span class="left_content_desc_title">Size  :</span> 2.2 ha <br />
 						<span class="left_content_desc_title">Architect  :</span> Framework Architects & Planning <br /><br />
 						
@@ -48,8 +48,10 @@
 						<span class="left_content_desc_title ch">類型 :</span> 歷史文化園區 <br />
 						<span class="left_content_desc_title ch">進度 :</span> 2016 - 建造中 <br />
 						<span class="left_content_desc_title ch">建築 :</span> 陳智宏建築師事務所 <br />
-						<span class="left_content_desc_title ch">重要獎項 :</span> 2014 競圖首獎<br />
-						<span class="left_content_desc_title ch" style="margin-left:60px;"></span> competition winner <br />
+						<span class="left_content_desc_title ch">重要獎項 :</span> 2020 金點設計獎-標章<br />
+						<span class="left_content_desc_title ch" style="margin-left:60px;"></span> Goldenpin Design Awards <br />
+						<span class="left_content_desc_title ch" style="margin-left:60px;"></span> 2020 第八屆景觀大賞-特殊主題類-傑出獎 <br />
+						<span class="left_content_desc_title ch" style="margin-left:60px;"></span> TILA - Outstanding Awards <br />
 					</p>
 				</div>
 				<div class="right_content">
@@ -57,6 +59,12 @@
 					<div><img src="../theme/images/44/2.jpg" /></div>
 					<div><img src="../theme/images/44/3.jpg" /></div>
 					<div><img src="../theme/images/44/4.jpg" /></div>
+					<div><img src="../theme/images/44/5.jpg" /></div>
+					<div><img src="../theme/images/44/6.jpg" /></div>
+					<div><img src="../theme/images/44/7.jpg" /></div>
+					<div><img src="../theme/images/44/8.jpg" /></div>
+					<div><img src="../theme/images/44/9.jpg" /></div>
+					<div><img src="../theme/images/44/10.jpg" /></div>
 				</div>
 
 			</div>
