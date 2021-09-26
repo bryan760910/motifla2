@@ -40,21 +40,25 @@
 						<span class="left_content_desc_title">Client :</span> Pauian Archiland <br />
 						<span class="left_content_desc_title">Location :</span> Taipei City, TW <br />
                         <span class="left_content_desc_title">Typology :</span> residence <br />
-                        <span class="left_content_desc_title">Status :</span> 2015 - present <br />
+                        <span class="left_content_desc_title">Status :</span> 2015 - 2019 <br />
 						<span class="left_content_desc_title">Size  :</span> 3,084 M2 <br />
 						<span class="left_content_desc_title">Architect  :</span> behet bondzio lin architects  <br />
                         <span class="left_content_desc_title ch" style="margin-left:63px;"></span> GmbH & Co. KG <br />
                         <br />
 						
-						<span class="left_content_desc_title ch">業主 :</span> 王泰建設 <br />
+						<span class="left_content_desc_title ch">業主 :</span> 璞園建築 <br />
 						<span class="left_content_desc_title ch">類型 :</span> 集合住宅 <br />
-						<span class="left_content_desc_title ch">進度 :</span> 2013 - 2018 <br />
-						<span class="left_content_desc_title ch">建築 :</span> P&T Group <br />
-                        <span class="left_content_desc_title ch" style="margin-left:34px;"></span> 劉學昇建築事務所 <br />
+						<!-- <span class="left_content_desc_title ch">進度 :</span> 2013 - 2018 <br /> -->
+						<span class="left_content_desc_title ch">建築 :</span> 清水建築工坊 <br />
+                        <!-- <span class="left_content_desc_title ch" style="margin-left:34px;"></span> 劉學昇建築事務所 <br /> -->
                     </p>
 				</div>
 				<div class="right_content">
-                    <div><img src="../theme/images/28/2.jpg" /></div>
+                    <div><img src="../theme/images/28/1.jpg" /></div>
+					<div><img src="../theme/images/28/2.jpg" /></div>
+					<div><img src="../theme/images/28/3.jpg" /></div>
+					<div><img src="../theme/images/28/4.jpg" /></div>
+					<div><img src="../theme/images/28/5.jpg" /></div>
 				</div>
 
 			</div>
