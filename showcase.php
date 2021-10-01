@@ -107,7 +107,187 @@
 
 				<!-- list -->
 				<div class="case_list">
+					<a href="./casefile/L280.php" class="land_art_and_curation">
+						<div>
+							<div class="pic_vis"><img src="theme/images/listImg/L280_293x200.jpg" /></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Heterotopia Garden│異托邦花園</span></div>
+						</div>
+					</a>
+					<a href="./casefile/4.php" class="land_art_and_curation master_plan">
+						<div>
+							<div class="pic_vis"><img src="theme/images/listImg/04_293x200.jpg" /></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">2018 TFE.│臺中花博植栽佈展 x 策展</span></div>
+						</div>
+					</a>
+					<a href="./casefile/L269.php" class="garden">
+						<div>
+							<div class="pic_vis"><img src="theme/images/listImg/L269_293x200.jpg" /></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Not Just Library│不只是圖書館-澡堂花園</span></div>
+						</div>
+					</a>
+					<a href="./casefile/L251.php" class="garden">
+						<div>
+							<div class="pic_vis"><img src="theme/images/listImg/L251_293x200.jpg" /></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">嘉磐華山雍翠接待中心</span></div>
+						</div>
+					</a>
+					<a href="./casefile/L222.php" class="culture park">
+						<div>
+							<div class="pic_vis"><img src="theme/images/listImg/L222_293x200.jpg" /></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">空總臺灣當代文化實驗場C-LAB-都市美學公園</span></div>
+						</div>
+					</a>
+					<a href="./casefile/L370.php" class="garden">
+						<div>
+							<div class="pic_vis"><img src="theme/images/listImg/L370_293x200.jpg" /></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">永康街銷售中心</span></div>
+						</div>
+					</a>
+					<a href="./casefile/51.php" class="park"> <!-- L188 -->
+						<div>
+							<div class="pic_vis"><img src="theme/images/listImg/49_293x200.jpg" /></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">原民生活地景│大雅汝鎏公園</span></div>
+						</div>
+					</a>
+					<a href="./casefile/L166.php" class="culture"> <!-- L166 -->
+						<div>
+							<div class="pic_vis"><img src="theme/images/listImg/L166_293x200.jpg" /></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">永安海螺文化體驗園區</span></div>
+						</div>
+					</a>
+					<a href="./casefile/47.php" class="culture museum">
+						<div>
+							<div class="pic_vis"><img src="theme/images/listImg/45_293x200.jpg" /></div> <!-- L112 -->
+							<div class="pic_vis_text"><span class="pic_vis_text2">Hengshan Calligraphy Park│橫山書法公園</span></div>
+						</div>
+					</a>
+					<a href="./casefile/L381.php" class="land_art_and_curation">
+						<div>
+							<div class="pic_vis"><img src="theme/images/listImg/L381_293x200.jpg" /></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">日日森展場</span></div>
+						</div>
+					</a>
+					<a href="./casefile/43.php" class="museum">
+						<div>
+							<div class="pic_vis"><img src="theme/images/listImg/41_293x200.jpg" /></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Chiayi Fine Arts Museum│嘉義美術館</span></div>
+						</div>
+					</a>
+					<!-- L314 順天永春段接待中心(+) -->
 					<a href="./casefile/1.php" class="culture museum">
+						<div>
+							<div class="pic_vis"><img src="theme/images/listImg/01_293x200.jpg" /></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Brick Yard 33 1/3 (BY33)│陽明山美軍俱樂部</span></div>
+						</div>
+					</a>
+					<a href="./casefile/3.php" class="culture park">
+						<div>
+							<div class="pic_vis"><img src="theme/images/listImg/03_293x200.jpg" /></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">西區門戶│三井廣場</span></div>
+						</div>
+					</a>
+					<a href="./casefile/44.php" class="culture">
+						<div>
+							<div class="pic_vis"><img src="theme/images/listImg/42_293x200.jpg" /></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Shuijiaoshe Cultural Park│水交社文化園區</span></div>
+						</div>
+					</a>
+					<!-- L303 順天展場(+) -->
+					<a href="./casefile/L232.php" class="land_art_and_curation">
+						<div>
+							<div class="pic_vis"><img src="theme/images/listImg/L232_293x200.jpg" /></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">讀樂樂書席計畫-野草迷宮</span></div>
+						</div>
+					</a>
+					<a href="./casefile/5.php" class="land_art_and_curation">
+						<div>
+							<div class="pic_vis"><img src="theme/images/listImg/05_293x200.jpg" /></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">臺灣的野草地圖 x 島嶼裡的山和海│烏日高鐵</span></div>
+						</div>
+					</a>
+					<a href="./casefile/28.php" class="residence">
+						<div>
+							<div class="pic_vis"><img src="theme/images/listImg/25_293x200.jpg" /></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Tianmu Project│璞園建築</span></div>
+						</div>
+					</a>
+					<a href="./casefile/27.php" class="residence">
+						<div>
+							<div class="pic_vis"><img src="theme/images/listImg/24_293x200.jpg" /></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">The Seed of Happiness│國泰禾</span></div>
+						</div>
+					</a>
+					<a href="./casefile/L239.php" class="residence">
+						<div>
+							<div class="pic_vis"><img src="theme/images/listImg/L239_293x200.jpg" /></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">大可山石│東煒建設</span></div>
+						</div>
+					</a>
+					<a href="./casefile/2.php" class="healthcare culture">
+						<div>
+							<div class="pic_vis"><img src="theme/images/listImg/02_293x200.jpg" /></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Andante Cantabile│宏濟心樂章</span></div>
+						</div>
+					</a>
+					<!-- L149 Motif Tainan(不變) -->
+					<a href="./casefile/L233.php" class="garden">
+						<div>
+							<div class="pic_vis"><img src="theme/images/listImg/L233_293x200.jpg" /></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Pumanman 璞滿滿</span></div>
+						</div>
+					</a>
+					<a href="./casefile/16.php" class="residence">
+						<div>
+							<div class="pic_vis"><img src="theme/images/listImg/10_293x200.jpg" /></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Bliss Origin│馥華原美</span></div>
+						</div>
+					</a>
+					<a href="./casefile/29.php" class="residence">
+						<div>
+							<div class="pic_vis"><img src="theme/images/listImg/26_293x200.jpg" /></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Tucheng Project│馥華城安</span></div>
+						</div>
+					</a>
+					<a href="./casefile/17.php" class="garden">
+						<div>
+							<div class="pic_vis"><img src="theme/images/listImg/11_293x200.jpg" /></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Zen garden│屋久紀</span></div>
+						</div>
+					</a>
+					<a href="./casefile/60.php" class="residence">
+						<div>
+							<div class="pic_vis"><img src="theme/images/listImg/07_293x200.jpg" /></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">i-life│僑昱建築</span></div>
+						</div>
+					</a>
+					<a href="./casefile/14.php" class="headquarter">
+						<div>
+							<div class="pic_vis"><img src="theme/images/listImg/08_293x200.jpg" /></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Lungyen Group Headquarter</span></div>
+						</div>
+					</a>
+					<a href="./casefile/15.php" class="residence">
+						<div>
+							<div class="pic_vis"><img src="theme/images/listImg/09_293x200.jpg" /></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Green-Life│僑昱建築</span></div>
+						</div>
+					</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					<!-- <a href="./casefile/1.php" class="culture museum">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/01_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Brick Yard 33 1/3 (BY33)│陽明山美軍俱樂部</span></div>
@@ -196,7 +376,7 @@
 							<div class="pic_vis"><img src="theme/images/listImg/15_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">Aldgate Place Park</span></div>
 						</div>
-					</a>
+					</a> -->
 					<!-- <a href="./casefile/10.php" class="london">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/Old_Bailey_Open_Space.jpg" /></div>
@@ -215,6 +395,7 @@
 							<div class="pic_vis_text"><span class="pic_vis_text2">London Chelsea Barrack</span></div>
 						</div>
 					</a> -->
+					<!--
 					<a href="./casefile/63.php" class="garden">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/16_293x200.jpg" /></div>
@@ -466,7 +647,7 @@
 							<div class="pic_vis"><img src="theme/images/listImg/57_293x200.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">臺中太平聯合辦公園</span></div>
 						</div>
-					</a>
+					</a> -->
 				</div>
 			</div>
 			<?php include 'footer.php' ?>
