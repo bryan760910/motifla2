@@ -48,7 +48,7 @@
                         <span class="left_content_desc_title ch">業主 :</span> 桃園市政府客家事務局 <br />
 						<span class="left_content_desc_title ch">類型 :</span> 文化園區 <br />
                         <span class="left_content_desc_title ch">建築 :</span> 戴小芹建築事務所 <br />
-                        <span class="left_content_desc_title ch">獎項 :</span>  <br />
+                        <span class="left_content_desc_title ch">獎項 :</span>
                         <span class="left_content_desc_title ch"></span> 2020 第八屆景觀大賞-環境規劃設計類-佳作獎 <br />
                         <span class="left_content_desc_title ch" style="margin-left:32px;"></span> TILA - Honorable Mention <br />
                     </p>

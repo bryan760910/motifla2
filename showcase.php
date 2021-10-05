@@ -272,8 +272,24 @@
 							<div class="pic_vis_text"><span class="pic_vis_text2">Green-Life│僑昱建築</span></div>
 						</div>
 					</a>
-
-
+					<a href="./casefile/7.php" class="london">
+						<div>
+							<div class="pic_vis"><img src="theme/images/listImg/13_293x200.jpg" /></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">LEICESTER SQUARE REDESIGN</span></div>
+						</div>
+					</a>
+					<a href="./casefile/8.php" class="residence london">
+						<div>
+							<div class="pic_vis"><img src="theme/images/listImg/14_293x200.jpg" /></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Melody Lane</span></div>
+						</div>
+					</a>
+					<a href="./casefile/9.php" class="london">
+						<div>
+							<div class="pic_vis"><img src="theme/images/listImg/15_293x200.jpg" /></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Aldgate Place Park</span></div>
+						</div>
+					</a>
 
 
 
