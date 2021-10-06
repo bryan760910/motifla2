@@ -165,11 +165,7 @@
 										<img src="theme/images/member/team__04.jpg" />
 									</div>
 								</td>
-								<td data-id="team__05">
-									<img src="theme/images/member/team__05.jpg" width="98" height="98" />
-									<div class="picbox" style="position:absolute; top:0; left:0; display:none; z-index:1;">
-										<img src="theme/images/member/team__05.jpg" />
-									</div>
+								<td>
 								</td>
 							</tr>
 							<tr>
@@ -192,7 +188,12 @@
 								</td>
 								<td></td>
 								<td></td>
-								<td></td>
+								<td data-id="team__05">
+									<img src="theme/images/member/team__05.jpg" width="98" height="98" />
+									<div class="picbox" style="position:absolute; top:0; left:0; display:none; z-index:1;">
+										<img src="theme/images/member/team__05.jpg" />
+									</div>
+								</td>
 							</tr>
 						</tbody>
 					</table>

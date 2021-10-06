@@ -173,7 +173,12 @@
 							<div class="pic_vis_text"><span class="pic_vis_text2">Chiayi Fine Arts Museum│嘉義美術館</span></div>
 						</div>
 					</a>
-					<!-- L314 順天永春段接待中心(+) -->
+					<a href="./casefile/L314.php" class="garden">
+						<div>
+							<div class="pic_vis"><img src="theme/images/listImg/L314_293x200.jpg" /></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">順天建設永春段接待中心</span></div>
+						</div>
+					</a>
 					<a href="./casefile/1.php" class="culture museum">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/01_293x200.jpg" /></div>
@@ -192,10 +197,15 @@
 							<div class="pic_vis_text"><span class="pic_vis_text2">Shuijiaoshe Cultural Park│水交社文化園區</span></div>
 						</div>
 					</a>
-					<!-- L303 順天展場(+) -->
+					<a href="./casefile/L303.php" class="land_art_and_curation">
+						<div>
+							<div class="pic_vis"><img src="theme/images/listImg/L303_293x200.jpg" /></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">Into the arms of stillness│擁恆的彼端</span></div>
+						</div>
+					</a>
 					<a href="./casefile/L232.php" class="land_art_and_curation">
 						<div>
-							<div class="pic_vis"><img src="theme/images/listImg/L232_293x200.jpg" /></div>
+							<div class="pic_vis"><img src="theme/images/listImg/L232_293x200-1.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">讀樂樂書席計畫-野草迷宮</span></div>
 						</div>
 					</a>
@@ -229,7 +239,12 @@
 							<div class="pic_vis_text"><span class="pic_vis_text2">Andante Cantabile│宏濟心樂章</span></div>
 						</div>
 					</a>
-					<!-- L149 Motif Tainan(不變) -->
+					<a href="./casefile/63.php" class="garden">
+						<div>
+							<div class="pic_vis"><img src="theme/images/listImg/16_293x200.jpg" /></div>
+							<div class="pic_vis_text"><span class="pic_vis_text2">臺南育德路自宅</span></div>
+						</div>
+					</a>
 					<a href="./casefile/L233.php" class="garden">
 						<div>
 							<div class="pic_vis"><img src="theme/images/listImg/L233_293x200.jpg" /></div>
