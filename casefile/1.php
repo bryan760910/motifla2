@@ -53,7 +53,7 @@
                         <span class="left_content_desc_title ch">建築 :</span> 戴小芹建築事務所 <br />
                         <span class="left_content_desc_title ch" style="margin-left:34px;"></span> 黃巢設計工務店 <br /><br />
                         <span class="left_content_desc_title ch">施工 :</span> 昱盛國際景觀有限公司 <br />
-                        <span class="left_content_desc_title ch">重要獎項 :</span>  <br />
+                        <span class="left_content_desc_title ch">獎項 :</span>  <br />
                         <span class="left_content_desc_title ch"></span> 2017 倫敦設計獎國際景觀類 金獎 <br />
                         <span class="left_content_desc_title ch" style="margin-left:32px;"></span> London Design Awards Gold <br />
                         <span class="left_content_desc_title ch" style="margin-left:32px;"></span> Winner <br />

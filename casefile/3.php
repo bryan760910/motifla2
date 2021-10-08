@@ -49,7 +49,7 @@
                         <span class="left_content_desc_title ch">業主 :</span> 臺北市政府文化局  <br />
                         <span class="left_content_desc_title ch" style="margin-left:34px;"></span> 臺北市政府工務局公園路燈管理處 <br />
 						<span class="left_content_desc_title ch">類型 :</span> 歷史空間再造 <br />
-                        <span class="left_content_desc_title ch">重要獎項 :</span> 2019 中華建築優良公共建設優良空間活化類 <br />
+                        <span class="left_content_desc_title ch">獎項 :</span> 2019 中華建築優良公共建設優良空間活化類 <br />
                         <span class="left_content_desc_title ch" style="margin-left:58px;"></span> 規劃組-金石獎 <br />
 						<span class="left_content_desc_title ch" style="margin-left:58px;"></span> 2019 倫敦設計獎-金獎 <br />
 						<span class="left_content_desc_title ch" style="margin-left:58px;"></span> London Design Awards Gold Award <br />

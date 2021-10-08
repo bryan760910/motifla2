@@ -48,14 +48,18 @@
 						<span class="left_content_desc_title ch">類型 :</span> 文化園區 <br />
 						<span class="left_content_desc_title ch">進度 :</span> 2016 - 建造中 <br />
 						<span class="left_content_desc_title ch">建築 :</span> 潘天壹建築師事務所 <br />
-						<span class="left_content_desc_title ch">重要獎項 :</span> 2018 國家卓越建設獎 最佳規劃設計類-金質獎 <br />
+						<span class="left_content_desc_title ch">獎項 :</span> 2018 國家卓越建設獎 最佳規劃設計類-金質獎 <br />
 						<span class="left_content_desc_title"></span> Taiwan Excellent Architectural Projects - Golden medal <br /><br />
 					</p>
 				</div>
 				<div class="right_content">
+					<div><img src="../theme/images/47/0.jpg" /></div>
 					<div><img src="../theme/images/47/1.jpg" /></div>
 					<div><img src="../theme/images/47/2.jpg" /></div>
 					<div><img src="../theme/images/47/3.jpg" /></div>
+					<div><img src="../theme/images/47/4.jpg" /></div>
+					<div><img src="../theme/images/47/5.jpg" /></div>
+					<div><img src="../theme/images/47/6.jpg" /></div>
 				</div>
 
 			</div>

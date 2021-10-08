@@ -49,7 +49,7 @@
 						<span class="left_content_desc_title ch">類型 :</span> 集合住宅 <br />
 						<span class="left_content_desc_title ch">進度 :</span> 2012 - 2015 <br />
                         <span class="left_content_desc_title ch">建築 :</span> 吳金福建築師事務所 <br />
-                        <span class="left_content_desc_title ch">重要獎項 :</span> 2016 建築景觀園冶獎 <br />
+                        <span class="left_content_desc_title ch">獎項 :</span> 2016 建築景觀園冶獎 <br />
                         <span class="left_content_desc_title ch" style="margin-left:58px;"></span> Yuan-Ye Award winner <br />
                     </p>
 				</div>

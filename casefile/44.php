@@ -48,7 +48,7 @@
 						<span class="left_content_desc_title ch">類型 :</span> 歷史文化園區 <br />
 						<span class="left_content_desc_title ch">進度 :</span> 2016 - 建造中 <br />
 						<span class="left_content_desc_title ch">建築 :</span> 陳智宏建築師事務所 <br />
-						<span class="left_content_desc_title ch">重要獎項 :</span> 2020 金點設計獎-標章<br />
+						<span class="left_content_desc_title ch">獎項 :</span> 2020 金點設計獎-標章<br />
 						<span class="left_content_desc_title ch" style="margin-left:60px;"></span> Goldenpin Design Awards <br />
 						<span class="left_content_desc_title ch" style="margin-left:60px;"></span> 2020 第八屆景觀大賞-特殊主題類-傑出獎 <br />
 						<span class="left_content_desc_title ch" style="margin-left:60px;"></span> TILA - Outstanding Awards <br />

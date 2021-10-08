@@ -49,7 +49,8 @@
 						<span class="left_content_desc_title ch">類型 :</span> 國際展覽園區、策展 <br />
 						<span class="left_content_desc_title ch">進度 :</span> 2017 - 2018 <br />
 						<span class="left_content_desc_title ch">工程 :</span> 山水景觀工程股份有限公司 <br />
-                        <span class="left_content_desc_title ch">重要獎項 :</span>  2019 第6屆臺灣景觀大賞 年度大獎 <br />
+                        <span class="left_content_desc_title ch">獎項 :</span><br />
+						<span class="left_content_desc_title ch" style="margin-left:60px;"></span> 2019 第6屆臺灣景觀大賞 年度大獎 <br />
                         <span class="left_content_desc_title ch" style="margin-left:60px;"></span> 6th Taiwan Landscape Architecture Award Winner <br />
 						<span class="left_content_desc_title ch" style="margin-left:60px;"></span> 2019 美國多年生植物學會-首獎 <br />
 						<span class="left_content_desc_title ch" style="margin-left:60px;"></span> PPA Landscape Design Award Winner <br />

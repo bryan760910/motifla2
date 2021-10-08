@@ -49,7 +49,7 @@
 						<span class="left_content_desc_title ch">類型 :</span> 公共住宅 <br />
 						<span class="left_content_desc_title ch">進度 :</span> 2017 - 建造中 <br />
                         <span class="left_content_desc_title ch">建築 :</span> 戴育澤建築師事務所 <br />
-                        <span class="left_content_desc_title ch">重要獎項 :</span> 2017 競圖首獎 <br />
+                        <span class="left_content_desc_title ch">獎項 :</span> 2017 競圖首獎 <br />
                         <span class="left_content_desc_title ch" style="margin-left:58px;"></span> competition winner <br />
                     </p>
 				</div>

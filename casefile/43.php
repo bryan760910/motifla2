@@ -50,7 +50,8 @@
 						<span class="left_content_desc_title ch">進度 :</span> 2014 - 建造中 <br />
 						<span class="left_content_desc_title ch">建築 :</span> 黃明威建築師事務所 <br />
 						<span class="left_content_desc_title ch" style="margin-left:36px;"></span>王銘顯建築師事務所 <br />
-						<span class="left_content_desc_title ch">重要獎項 :</span> 2020 第八屆景觀大賞-特殊主題類-優質獎<br />
+						<span class="left_content_desc_title ch">獎項 :</span><br />
+						<span class="left_content_desc_title ch" style="margin-left:60px;"></span> 2020 第八屆景觀大賞-特殊主題類-優質獎 <br />
 						<span class="left_content_desc_title ch" style="margin-left:60px;"></span> TILA - Award of Excellence <br />
 						<span class="left_content_desc_title ch" style="margin-left:60px;"></span> 2020 臺灣建築獎入圍 <br />
 					</p>

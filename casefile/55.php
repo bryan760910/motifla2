@@ -48,7 +48,7 @@
 						<span class="left_content_desc_title ch">類型 :</span> 公共住宅 <br />
 						<span class="left_content_desc_title ch">進度 :</span> 2017 - 執行中 <br />
 						<span class="left_content_desc_title ch">建築 :</span> 郭旭原聯合建築師事務所 <br />
-						<span class="left_content_desc_title ch">重要獎項 :</span> 2017 競圖首獎 <br />
+						<span class="left_content_desc_title ch">獎項 :</span> 2017 競圖首獎 <br />
 						<span class="left_content_desc_title ch" style="margin-left:60px;"></span> competition winner <br />
 					</p>
 				</div>

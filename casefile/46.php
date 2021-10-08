@@ -50,7 +50,7 @@
 						<span class="left_content_desc_title ch">進度 :</span> 2016 - 建造中 <br />
 						<span class="left_content_desc_title ch">建築 :</span> 清水建築工坊 <br />
 						<span class="left_content_desc_title" style="margin-left:36px;"></span> 十彥建築 <br />
-						<span class="left_content_desc_title ch">重要獎項 :</span> 2014 競圖首獎<br />
+						<span class="left_content_desc_title ch">獎項 :</span> 2014 競圖首獎<br />
 						<span class="left_content_desc_title ch" style="margin-left:60px;"></span> competition winner <br />
 					</p>
 				</div>

@@ -37,18 +37,16 @@
 					<!--h3 class="left_content_title">The journeyman</h3-->
 					<p class="left_content_desc">
 						<span class="left_content_desc_title red"> 璞園春生生 </span> <br />
-						<span class="left_content_desc_title">Client :</span> Sorgsam Construction CO., LTD. <br />
-						<span class="left_content_desc_title ch" style="margin-left:43px;"></span> Pauian Archiland <br />
+						<span class="left_content_desc_title">Client :</span> 璞園春生生 | 璞園建築 <br />
                         <span class="left_content_desc_title">Location :</span> Taipei City, TW <br />
                         <span class="left_content_desc_title">Typology :</span> residence <br />
-                        <span class="left_content_desc_title">Status :</span> 2015 - present <br />
+                        <span class="left_content_desc_title">Status :</span> 2015 - 2019 <br />
+						<span class="left_content_desc_title">Size :</span> 3,084 M2 <br />
                         <span class="left_content_desc_title">Architect  :</span> behet bondzio lin architects GmbH & Co. KG <br />
                         <br />
 						
-                        <span class="left_content_desc_title ch">業主 :</span> 誠寬建設股份有限公司 <br />
-						<span class="left_content_desc_title ch" style="margin-left:34px;"></span> 璞元建設股份有限公司 <br />
+                        <span class="left_content_desc_title ch">業主 :</span> 璞園建築 <br />
 						<span class="left_content_desc_title ch">類型 :</span> 集合住宅 <br />
-						<span class="left_content_desc_title ch">進度 :</span> 2015 - 執行中 <br />
                         <span class="left_content_desc_title ch">建築 :</span> 清水建築工坊 <br />
                     </p>
 				</div>

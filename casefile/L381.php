@@ -36,8 +36,8 @@
 				<div class="left_content">
 					<!--h3 class="left_content_title">The journeyman</h3-->
 					<p class="left_content_desc">
-						<span class="left_content_desc_title red"> 日日森展場 </span> <br />
-						<span class="left_content_desc_title">Client :</span> 森3 SUN SUN MUSEUM <br />
+						<span class="left_content_desc_title red"> 森3「日日森」 </span> <br />
+						<span class="left_content_desc_title">Client :</span> 森3 SUN SUN MUSEUM-植物、古物、咖啡 <br />
 						<span class="left_content_desc_title">Location :</span> Taipei City, TW <br />
                         <span class="left_content_desc_title">Typology :</span> land art & curation <br />
                         <span class="left_content_desc_title">Status :</span> 2021 <br />

@@ -47,7 +47,7 @@
 						<span class="left_content_desc_title ch">類型 :</span> 國際博覽會 <br />
 						<span class="left_content_desc_title ch">進度 :</span> 2017 - 執行中 <br />
                         <span class="left_content_desc_title ch">團隊 :</span> 有通藝景 <br />
-                        <span class="left_content_desc_title ch">重要獎項 :</span>  2017 競圖首獎 <br />
+                        <span class="left_content_desc_title ch">獎項 :</span>  2017 競圖首獎 <br />
                         <span class="left_content_desc_title ch" style="margin-left:60px;"></span> competition winner <br />
 						
 					</p>

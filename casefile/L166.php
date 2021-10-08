@@ -36,7 +36,7 @@
 				<div class="left_content">
 					<!--h3 class="left_content_title">The journeyman</h3-->
 					<p class="left_content_desc">
-						<span class="left_content_desc_title red">永安海螺文化體驗園區 </span> <br />
+						<span class="left_content_desc_title red">桃園永安漁港-鹼地荒野花園 </span> <br />
 						<span class="left_content_desc_title">Client :</span> Department of Hakka Affairs, Taoyuan <br />
 						<span class="left_content_desc_title">Location :</span> Taoyuan,TW <br />
                         <span class="left_content_desc_title">Typology :</span> culture <br />
