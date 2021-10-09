@@ -49,12 +49,12 @@
                     </p>
 				</div>
 				<div class="right_content">
-                    <div><img src="../theme/images/L303/1.jpg" /></div>
-                    <div><img src="../theme/images/L303/2.jpg" /></div>
-                    <div><img src="../theme/images/L303/3.jpg" /></div>
-                    <div><img src="../theme/images/L303/4.jpg" /></div>
-                    <div><img src="../theme/images/L303/5.jpg" /></div>
-                    <div><img src="../theme/images/L303/6.jpg" /></div>
+                    <div><img src="../theme/images/L314/1.jpg" /></div>
+                    <div><img src="../theme/images/L314/2.jpg" /></div>
+                    <div><img src="../theme/images/L314/3.jpg" /></div>
+                    <div><img src="../theme/images/L314/4.jpg" /></div>
+                    <div><img src="../theme/images/L314/5.jpg" /></div>
+                    <div><img src="../theme/images/L314/6.jpg" /></div>
 				</div>
 
 			</div>

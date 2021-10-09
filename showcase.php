@@ -205,7 +205,7 @@
 					</a>
 					<a href="./casefile/L232.php" class="land_art_and_curation">
 						<div>
-							<div class="pic_vis"><img src="theme/images/listImg/L232_293x200-1.jpg" /></div>
+							<div class="pic_vis"><img src="theme/images/listImg/L232_293x2001.jpg" /></div>
 							<div class="pic_vis_text"><span class="pic_vis_text2">讀樂樂書席計畫-野草迷宮</span></div>
 						</div>
 					</a>

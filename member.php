@@ -312,7 +312,7 @@
 								<li><img src="theme/images/member/team__03.jpg" width="100%" height="100%" /></li>
 								<li></li>
 								<li><img src="theme/images/member/team__04.jpg" width="100%" height="100%" /></li>
-								<li><img src="theme/images/member/team__05.jpg" width="100%" height="100%" /></li>
+								<li></li>
 							</ol>
 							<ol class="tr">
 								<li></li>
@@ -323,8 +323,8 @@
 							<ol class="tr">
 								<li><img src="theme/images/member/team__07.jpg" width="100%" height="100%" /></li>
 								<li></li>
-								<li><img src="theme/images/member/team__08.jpg" width="100%" height="100%" /></li>
-								<li><img src="theme/images/member/team__09.jpg" width="100%" height="100%" /></li>
+								<li></li>
+								<li><img src="theme/images/member/team__05.jpg" width="100%" height="100%" /></li>
 							</ol>
 						</li>
 					</ul>
