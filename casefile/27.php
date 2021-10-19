@@ -46,7 +46,7 @@
                         <span class="left_content_desc_title ch" style="margin-left:63px;"></span> Associates <br />
                         <br />
 						
-						<span class="left_content_desc_title ch">業主 :</span> 新竹市政府 <br />
+						<span class="left_content_desc_title ch">業主 :</span> 國泰建設股份有限公司 <br />
 						<span class="left_content_desc_title ch">類型 :</span> 集合住宅 <br />
 						<span class="left_content_desc_title ch">進度 :</span> 2015 - 2020 <br />
 						<span class="left_content_desc_title ch">建築 :</span> 王銘鴻建築師事務所 <br />
